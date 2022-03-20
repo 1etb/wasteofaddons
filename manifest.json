@@ -3,7 +3,7 @@
 	"version": "0.0.1",
 
 	"name": "wasteof addons",
-	"description": "This is importaint",
+	"description": "Addons for wasteof.money",
 	"content_scripts": [{
 			"matches": ["https://wasteof.money/*"],
 			"js": ["autosave.js"]
