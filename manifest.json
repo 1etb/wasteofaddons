@@ -1,0 +1,12 @@
+{
+	"manifest_version": 3,
+	"version": "0.0.1",
+
+	"name": "WasteOf Post AutoSave",
+	"short_name": "wasteof autosave",
+	"description": "This is importaint",
+	"content_scripts": [{
+			"matches": ["https://wasteof.money/*"],
+			"js": ["inject.js"]
+		}]
+}
