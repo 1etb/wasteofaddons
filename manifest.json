@@ -2,8 +2,7 @@
 	"manifest_version": 3,
 	"version": "0.0.1",
 
-	"name": "WasteOf Post AutoSave",
-	"short_name": "wasteof autosave",
+	"name": "wasteof addons",
 	"description": "This is importaint",
 	"content_scripts": [{
 			"matches": ["https://wasteof.money/*"],
