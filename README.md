@@ -1,5 +1,9 @@
 # wasteofaddons
-this is very useful if you are on wasteof
+this is very useful if you are on wasteof.money
 
-### addons
+## addons
 1. Post editor autosave
+
+## planned
+- [follows you] tag.
+- "flat" theme.
